@@ -7,16 +7,16 @@ Thank you for taking the time to read this message and to view these apps. I am 
 
 ## My Apps
 
-#### C# Banking Ledger
+#### C# Banking Ledger - C#, ASP.NET Core
 github repo: https://github.com/tdsmith27/CSharp-Banking-Ledger
 
-#### backyard-veggies seasonal recipe finder
+#### backyard-veggies seasonal recipe finder - React, Node, Express, MongoDB
 github repo: https://github.com/tdsmith27/backyard-veggies <br>
 live app: http://backyard-veggies.com
 
-#### The Polling Stone
+#### The Polling Stone - React, Node, Express, PostgreSQL
 github repo: https://github.com/tdsmith27/polling-stone <br>
 live app: http://polling-stone.com
 
-#### Reviews Microservice
+#### Reviews Microservice - React, Node, Express, MongoDB
 github repo: https://github.com/tdsmith27/reviews-service
