@@ -7,20 +7,20 @@ Thank you for taking the time to read this message and to view these apps. I am 
 
 ## My Apps
 
-#### C# Banking Ledger - C#, ASP.NET Core
+**C# Banking Ledger - C#, ASP.NET Core**<br>
 _A banking ledger console application written in C#_<br>
-github repo: https://github.com/tdsmith27/CSharp-Banking-Ledger
+- github repo: https://github.com/tdsmith27/CSharp-Banking-Ledger
 
-#### backyard-veggies seasonal recipe finder - React, Node, Express, MongoDB
+**backyard-veggies seasonal recipe finder - React, Node, Express, MongoDB**<br>
 _Single page application built with React+Node/Express. Allows users to search for recipes using locally seasonal ingredients_<br>
-github repo: https://github.com/tdsmith27/backyard-veggies <br>
-live app: http://backyard-veggies.com
+- github repo: https://github.com/tdsmith27/backyard-veggies <br>
+- live app: http://backyard-veggies.com
 
-#### The Polling Stone - React, Node, Express, PostgreSQL
+**The Polling Stone - React, Node, Express, PostgreSQL**<br>
 _A voter information app developed within a team using agile development methodologies.<br>This app is not currently maintained and some info may be out of date_<br>
-github repo: https://github.com/tdsmith27/polling-stone <br>
-live app: http://polling-stone.com
+- github repo: https://github.com/tdsmith27/polling-stone <br>
+- live app: http://polling-stone.com
 
-#### Reviews Microservice - React, Node, Express, MongoDB
+**Reviews Microservice - React, Node, Express, MongoDB**<br>
 _A Reviews component within a microservice architecture for a product-detail page based on The Home Depot_<br>
-github repo: https://github.com/tdsmith27/reviews-service
+- github repo: https://github.com/tdsmith27/reviews-service
