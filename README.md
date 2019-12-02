@@ -12,7 +12,7 @@ _A banking ledger console application written in C#_<br>
 - github repo: https://github.com/tdsmith27/CSharp-Banking-Ledger
 
 **backyard-veggies seasonal recipe finder - React, Node, Express, MongoDB**<br>
-_Single page application built with React+Node/Express. Allows users to search for recipes using locally seasonal ingredients_<br>
+_Single page app built with React+Node/Express. Users can search for recipes that use locally seasonal ingredients_<br>
 - github repo: https://github.com/tdsmith27/backyard-veggies <br>
 - live app: http://backyard-veggies.com
 
