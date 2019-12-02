@@ -22,5 +22,5 @@ github repo: https://github.com/tdsmith27/polling-stone <br>
 live app: http://polling-stone.com
 
 #### Reviews Microservice - React, Node, Express, MongoDB
-_A Reviews component within a microservice architecture for a product-detail page based on The Home Depot<br>
+_A Reviews component within a microservice architecture for a product-detail page based on The Home Depot_<br>
 github repo: https://github.com/tdsmith27/reviews-service
